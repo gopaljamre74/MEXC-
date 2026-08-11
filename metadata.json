@@ -1,0 +1,6 @@
+{
+  "name": "MEXC Exchange",
+  "description": "MEXC Exchange clone featuring real-time crypto price tracking, low-latency spot & futures trading, integrated multi-asset wallet with cold storage transfer, and 2FA security control panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
